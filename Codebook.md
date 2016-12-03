@@ -67,7 +67,8 @@ tBodyGyroJerkMean
 
 ##Data used for this assignment 
 For this assignment, we are only interested in mean and standard deviation variables. My assumptions for this selection are outlined in the README. The following is a list of the variables I have included in my final data set, which I have renamed (using descriptive variable names as outlined in the README). The values in this final tidy data set are the means of the variables of each subject performing each activity:
-###"TimeBodyAccelerometerMeanXaxis"
+
+"TimeBodyAccelerometerMeanXaxis"
 "TimeBodyAccelerometerMeanYaxis"
 "TimeBodyAccelerometerMeanZaxis"
 "TimeGravityAccelerometerMeanXaxis"
