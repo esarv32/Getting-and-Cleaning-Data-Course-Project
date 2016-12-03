@@ -1,3 +1,5 @@
+#Getting and Cleaning Data: Course Project
+
 1.	Download and unzip the zip file which contains the dataset
 2.	Read in the various files to begin looking at the data
 3.	Explore the structure of the different files to discover how they interact and what should be merged together for analysis
